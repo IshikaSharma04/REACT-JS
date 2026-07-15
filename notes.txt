@@ -1,0 +1,2 @@
+react js said that we will bring everything to componenet based architecture 
+a whole website is broken in parts 
