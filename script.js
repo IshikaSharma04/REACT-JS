@@ -4,10 +4,10 @@
 // document.body.appendChild(h1) 
 
 //react js is a library  -> it is used to give feature to a particular website  
-//eg of libraries -> gsapis a library we can make movin ginitials with their help ,lenis also helps in smooth scrolling , react js helps in making ui 
-//eg of framework -> next js , angular , remix ,   
-// library use hoti h ek particular feature ke liye   
-//For framework I get everything built up in a single place. we cant do much customization
+//eg of libraries -> gsapis a library we can make movin ginitials with their help ,lenis also helps in smooth scrolling , react js helps in making ui  
+//eg of framework -> next js , angular , remix ,     
+// library use hoti h ek particular feature ke liye    
+//For framework I get everything built up in a single place. we cant do much customization 
 //
  
 //If I have app JS in which I have a variable a is equal to 20 and then in script JS I am going and doing console dot log a then to link up these both JS files I need a. 
@@ -15,9 +15,9 @@
 //There are two kinds of export named export and default export.  
 
 import a from './app.js'
-console.log(a); 
+console.log(a);  
 
-//still we get nothign bcoz export are of. two types 
+//still we get nothign bcoz export are of. two types  
 //names export -> kisi ko koi naam de diya and then jaake usko export kar diya  
 //defualt export -> har file kuch na kuch send kar rhi h aapko  
 
