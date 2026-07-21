@@ -1,0 +1,1 @@
+test('fetches data successfully', () => {});
