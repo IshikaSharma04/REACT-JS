@@ -1,1 +1,2 @@
-export const Navbar = () => <nav className="navbar"><h1>React App</h1></nav>;
+const NAV_ITEMS = ['Home', 'About', 'Contact'];
+export const Navbar = () => <nav>{NAV_ITEMS.map(i => <a key={i} href={`#${i}`}>{i}</a>)}</nav>;
