@@ -1,1 +1,1 @@
-export const Input = (props) => <input className="form-input" {...props} />;
+export const Input = ({ label, id, ...props }) => <div><label htmlFor={id}>{label}</label><input id={id} {...props} /></div>;
