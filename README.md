@@ -11,3 +11,6 @@ Configured client-side navigation using React Router.
 
 ## Modal Component
 - Press `ESC` or click outside to dismiss dialogs.
+
+## Performance Optimizations
+- `React.memo` applied to list cards.
