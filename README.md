@@ -14,3 +14,6 @@ Configured client-side navigation using React Router.
 
 ## Performance Optimizations
 - `React.memo` applied to list cards.
+
+## Core Component Library
+Full suite of production-ready components.
